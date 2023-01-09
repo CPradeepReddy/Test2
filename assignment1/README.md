@@ -8,7 +8,7 @@
   * Run `npm run build`
   This should create a production ready folder for you under the `build` folder
 2. Deploy the static site on both AWS and GCP.
-3. Setup a custom domain for both platforms and setup an SSL certificate.
+3. Setup a custom domain for both platforms.
 4. Use a custom domain name for both platforms,
 
 For aws create a subdomain with the format `aws.MYDOMAINNAME.com` and for GCP with the format `gcp.MYDOMAINNAME.com` you may use domain roots other than `.com` such as `.tk` or otherwise.
