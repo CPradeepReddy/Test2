@@ -50,7 +50,7 @@ A Submission that is 5 days late will result in a 85% maximum grade.
 ### Cutoff Deadline
 
 7th February at Midnight is the final submission deadline for all assignments and the Final Project.
-Any submissions outstanding at this date will have receive a grade of 0.
+Any submission outstanding at this date will have receive a grade of 0.
 
 ### Attribution Note
 
