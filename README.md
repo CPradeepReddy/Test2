@@ -30,11 +30,11 @@ The assignments are intended to be completed prior to next class' start time.
 
 The deadline for each assignment is outlined in the table below:
 
-| Assignment    | Start Date | Deadline   |
-| ------------- | ---------- | ---------- |
-| Assignment 1  | January 18 | January 24 |
-| Assignment 2  | January 24 | January 31 |
-| Final Project | January 28 | February 4 |
+| Assignment    | Deadline   |
+| ------------- | ---------- |
+| Assignment 1  | May 13 |
+| Assignment 2  | May 21 |
+| Final Project | May 27 |
 
 ### Late Policy
 
@@ -49,7 +49,7 @@ A Submission that is 5 days late will result in a 85% maximum grade.
 
 ### Cutoff Deadline
 
-7th February at Midnight is the final submission deadline for all assignments and the Final Project.
+29th May at Midnight is the final submission deadline for all assignments and the Final Project.
 Any submission outstanding at this date will have receive a grade of 0.
 
 ### Attribution Note
